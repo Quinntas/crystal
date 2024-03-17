@@ -12,10 +12,10 @@ const fontSans = FontSans({
 
 export const metadata: Metadata = {
     title: {
-        default: "Nextjs Template",
-        template: "%s | Nextjs Template",
+        default: "Crystal",
+        template: "%s | Crystal",
     },
-    description: "Nextjs Template",
+    description: "Crystal blog",
     robots: {
         follow: true,
         index: true,
